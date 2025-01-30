@@ -12,8 +12,6 @@ This project analyzes the **Used Car Resale Market** using **Power BI and Python
 - **Automatic transmission** vehicles are generally priced higher than manual ones.  
 - **Luxury brands (Audi, BMW, Land Rover)** dominate the high-price range.  
 
-## 📊 Dashboard  
-🔗 **Power BI Report Link:** [Insert Power BI Public Link]  
 
 ## 🗄 Dataset  
 The dataset contains historical data of used cars, including:  
@@ -32,7 +30,6 @@ The dataset contains historical data of used cars, including:
 
 ## 📂 Project Files  
 - `Used_Cars_Analysis.pbix` → Power BI dashboard file  
-- `data_cleaning.ipynb` → Python notebook for preprocessing  
 - `dataset.csv` → Cleaned dataset (if publicly shareable)  
 - `README.md` → Project documentation  
 
@@ -50,13 +47,13 @@ The dataset contains historical data of used cars, including:
 Feel free to **fork** this repository, **raise issues**, or **suggest improvements**.  
 
 ## 📬 Contact  
-For queries or collaborations, reach out to me on **LinkedIn**: [Insert LinkedIn Profile]  
+For queries or collaborations, reach out to me on **LinkedIn**: [www.linkedin.com/in/dhananjay-patil-b25423315]  
 
 ---
 
 ### **🔗 Connect & Explore**  
-📊 **Live Dashboard:** [Insert Power BI Link]  
-📂 **GitHub Repo:** [Insert GitHub Repo Link]  
-👥 **LinkedIn Post:** [Insert LinkedIn Post Link]  
+📊 **Email:** [patildhananjay1307@gmail.com]  
+📂 **GitHub Repo:** [https://github.com/dhananjay937/Power-Bi.git]  
+👥 **LinkedIn Post:** [https://www.linkedin.com/posts/dhananjay-patil-b25423315_powerbi-dataanalytics-usedcars-activity-7290652678366396416-6KKW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_5fI0BsVkYTxyAd4aFs2_4Qx6Kg1d2BH8]  
 
 🔗 **#PowerBI #DataAnalytics #UsedCars #Python #DataVisualization #BusinessIntelligence**  
