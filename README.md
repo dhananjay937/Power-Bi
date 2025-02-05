@@ -18,7 +18,7 @@ Welcome to the **Power BI Projects Repository**, a collection of interactive das
 ## 🚀 **Getting Started**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/powerbi-projects.git
+   git clone [https://github.com/dhananjay937/Power-Bi.git]
    ```
 2. **Open the Project:**
    - Launch Power BI Desktop.
